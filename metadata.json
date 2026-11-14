@@ -1,0 +1,6 @@
+{
+  "name": "SENTINEL Enterprise SOC",
+  "description": "Enterprise Threat Intelligence, Case Forensics, Attack Graph & Live Simulation Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
